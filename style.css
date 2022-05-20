@@ -1,0 +1,80 @@
+
+
+body{
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+    text-align: center;
+}
+
+
+#balls{
+position: fixed;
+bottom: 0px;
+right: 10px;
+} 
+ 
+
+#desenho{
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 72px;
+}
+
+
+article{
+    width: 592px;
+    margin: auto;
+}
+
+h1{
+font-weight: 400;
+font-size: 49px;
+font-family: 'Inter', sans-serif;
+font-style: regular;
+line-height: 56px;
+margin-bottom: 32px;
+}
+
+
+strong{
+    color:#FF9900;
+}
+
+
+a{
+    color: #FF9900;
+
+    text-decoration: none;
+    font-style: normal;
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#instagram{
+margin: 28px;
+}
+
+
+p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #7D7987;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 72px;
+}
+
+
+footer{
+    margin: auto;
+    padding-top: 8px;
+    border-top: 1px solid;
+    width: 568px;
+    color: #ECEFF2;
+    margin-bottom: 33px;
+}
